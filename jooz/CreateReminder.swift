@@ -38,7 +38,7 @@ struct CreateReminder: View {
                 .fontWeight(.heavy)
                 .frame(width: 500)
                 .frame(height: 90)
-                .controlSize(.large)
+                .controlSize(.small)
         }
         }
        
